@@ -18,9 +18,9 @@ class AppColors {
     begin: Alignment.topCenter,
     end: Alignment.bottomCenter,
     colors: [
-      Color(0xFFF9EBE6),
-      Color(0xFFF6F4EE),
-      Color(0xFFE4EFE9),
+      Color(0xFFF0BFAE), // Peach lebih pekat
+      Color(0xFFEEDFD3), // Transisi hangat
+      Color(0xFFBAD9C9),
     ],
     stops: [0.0, 0.45, 1.0],
   );
